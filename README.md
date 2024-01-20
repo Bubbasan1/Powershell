@@ -1,1 +1,1 @@
-# Powershell
+This is just a spot for me to dump my Powershell ditties that I cobble together to help me do admin stuff.  Sensitive info, like credentials, IPs, server names, will be redacted and documented where necessary.  Enjoy!
