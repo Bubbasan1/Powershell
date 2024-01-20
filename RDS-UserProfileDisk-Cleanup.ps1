@@ -2,7 +2,7 @@
 # This quick script will evaluate your User     #
 # Profile Disks in your RDS environment against #
 # user objectSid attributes in AD and remove    #
-# any that are orphaned.                        #
+# any that are orphaned (no matching sid).      #
 #################################################
 
 $profiledir = "E:\Profiles"       #You must update this to the path where you are storing your user profile disks.
